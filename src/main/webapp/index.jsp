@@ -1,10 +1,12 @@
 <html>
 <head>
-<title>Rock Paper Scissors!!!</title>																																																						<html>
+<title>Rock Paper Scissors!!!</title>		
+
+																																																				<html>
 </head>
 
    <body>
-
+<h1> Code lab technology inc</h1>
       Which one will it be for you today?<br/>
       <a href="#" onclick="playRoshambo('rock')"> rock </a>
       <a href="#" onclick="playRoshambo('paper')"> paper </a>
